@@ -1,0 +1,50 @@
+body {
+    background-color: #0B233F;
+}
+
+#header {
+    background-color: #004B88;
+}
+
+#name {
+    background-color: #CF1144;
+    font-size: 200%;
+        color: #091D2E;
+        text-shadow:
+          -1px -1px 0 white,
+           0   -1px 0 white,
+           1px -1px 0 white,
+           1px  0   0 white,
+           1px  1px 0 white,
+           0    1px 0 white,
+          -1px  1px 0 white,
+          -1px  0   0 white;
+    
+}
+
+#age {
+    background-color: #0F2948;
+    font-size: 200%;
+        color: #CF1144;
+        text-shadow:
+          -1px -1px 0 white,
+           0   -1px 0 white,
+           1px -1px 0 white,
+           1px  0   0 white,
+           1px  1px 0 white,
+           0    1px 0 white,
+          -1px  1px 0 white,
+          -1px  0   0 white;
+    
+}
+
+#content {
+    background-color: white;
+}
+
+#barcode {
+    background-color: white;
+}
+img {
+    width: 100%;
+}
