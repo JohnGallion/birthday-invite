@@ -8,6 +8,7 @@ body {
 
 #name {
     background-color: #CF1144;
+    
     font-size: 200%;
         color: #091D2E;
         text-shadow:
@@ -24,6 +25,8 @@ body {
 
 #age {
     background-color: #0F2948;
+    
+
     font-size: 200%;
         color: #CF1144;
         text-shadow:
